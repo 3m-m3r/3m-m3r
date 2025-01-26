@@ -30,7 +30,7 @@ Hi, I'm [Ammar Ahmed](https://ammar2852021.github.io/mero/) A Passionate Self-Ta
 
 <!--Night Owl image-->
 <div>
-  <img  align="right" width="40%" src="https://github.githubassets.com/assets/profile-joined-github-456737b47749.svg" class="text-center width-fit" alt="Joined GitHub!">
+  <img  align="right" width="100%" src="https://github.githubassets.com/assets/profile-joined-github-456737b47749.svg" class="text-center width-fit" alt="Joined GitHub!">
 </div>
 
 <!--Header Name-->
