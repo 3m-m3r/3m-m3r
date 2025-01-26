@@ -38,7 +38,6 @@ Hi, I'm [Ammar Ahmed](https://ammar2852021.github.io/mero/) A Passionate Self-Ta
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
